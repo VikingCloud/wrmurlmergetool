@@ -1,0 +1,5 @@
+# One URL per line. Blank lines and lines starting with # are ignored.
+# Semicolon separated values (the Bulk Import cell format) are also accepted.
+https://www.example.com
+https://shop.example.com/
+http://legacy.example.com/store
